@@ -1,8 +1,6 @@
-# helpless-bustard
+# different-racer
 HTML, CSS &amp; Javascript Basics #87 and Basic Algorithm Scripting #86
 
-# helpless-bustard
-HTML, CSS &amp; Javascript Basics #87 and Basic Algorithm Scripting #86
 
 ## Description
 
@@ -17,6 +15,9 @@ HTML, CSS &amp; Javascript Basics #87:
 - [ ] jQuery
 - [ ] Basic Javascript
 - [ ] Object Oriented and Functional Programming
+
+
+##Stretch Goal
 
 Basic Algorithm Scripting #86:
 - [ ] Get Set for our Algorithm Challenges
