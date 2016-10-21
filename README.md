@@ -43,7 +43,7 @@ Basic Algorithm Scripting #86:
 -[x]JSON APIs and Ajax
 
 Advanced Algorithm Scripting:
--[x] Make a person
--[x] Boo who
+- [x] Make a person
+- [x] Boo who
 
 
