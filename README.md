@@ -10,26 +10,26 @@ https://www.freecodecamp.com/map
 ## Specifications
 
 HTML, CSS &amp; Javascript Basics #87:
-- [ ] HTML & CSS
-- [ ] Responsive design with bootstrap
-- [ ] jQuery
-- [ ] Basic Javascript
-- [ ] Object Oriented and Functional Programming
+- [x] HTML & CSS
+- [x] Responsive design with bootstrap
+- [x] jQuery
+- [x] Basic Javascript
+- [x] Object Oriented and Functional Programming
 
 
-##Stretch Goal
+## Debrena's Stretch Goal
 
 Basic Algorithm Scripting #86:
-- [ ] Get Set for our Algorithm Challenges
-- [ ] Reverse a String 
-- [ ] Factorialize a Number 
-- [ ] Check for Palindromes 
-- [ ] Find the Longest Word in a String 
-- [ ] Title Case a Sentence 
-- [ ] Return Largest Numbers in Arrays 
-- [ ] Confirm the Ending 
-- [ ] Repeat a string repeat a string 
-- [ ] Truncate a string 
+- [x] Get Set for our Algorithm Challenges
+- [x] Reverse a String 
+- [x] Factorialize a Number 
+- [x] Check for Palindromes 
+- [x] Find the Longest Word in a String 
+- [x] Title Case a Sentence 
+- [x] Return Largest Numbers in Arrays 
+- [x] Confirm the Ending 
+- [x] Repeat a string repeat a string 
+- [x] Truncate a string 
 - [ ] Chunky Monkey 
 - [ ] Slasher Flick 
 - [ ] Mutations 
@@ -37,3 +37,13 @@ Basic Algorithm Scripting #86:
 - [ ] Seek and Destroy 
 - [ ] Where do I belong 
 - [ ] Caesars Cipher 
+
+## Max's Stretch Goal
+
+-[x]JSON APIs and Ajax
+
+Advanced Algorithm Scripting:
+-[x] Make a person
+-[x] Boo who
+
+
